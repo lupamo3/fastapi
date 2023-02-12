@@ -26,3 +26,5 @@ archive.zip
 
 alembic.ini
 alembic/versions/*
+alembic
+.env 
